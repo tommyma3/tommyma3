@@ -46,10 +46,7 @@ Here are some ideas to get you started:
 ### 📫 Contact me
 - ✉️ [yuanqingma@link.cuhk.edu.cn](mailto:yuanqingma@link.cuhk.edu.cn)  
 
----
 
-![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommyma3&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyma3&layout=compact&theme=tokyonight)
 
 ---
 
