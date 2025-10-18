@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 # Hey there 👋, I'm Tommy Ma  
 
-🎓 I'm a sophomore CS student at **CUHK(SZ)**, passionate about **machine learning** — especially **reinforcement learning**.  
-⚽ When I’m not coding, you’ll probably find me watching **Tottenham Hotspur**, playing soccer with friends, or blasting some **rock ’n’ roll** (U2, Bowie, Bon Jovi... you name it).  
 
 > *"One day I will find the right words, and they will be simple."* — Jack Kerouac  
 
