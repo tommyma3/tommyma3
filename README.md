@@ -42,6 +42,9 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![SSH](https://img.shields.io/badge/SSH-025B80?style=flat-square&logo=openssh&logoColor=white)
+
+  
 
 ---
 ### 📫 Contact me
