@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![SSH](https://img.shields.io/badge/SSH-025B80?style=flat-square&logo=openssh&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?&style=flat-square&logo=markdown&logoColor=white)
 
   
 
