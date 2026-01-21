@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🎓 Sophomore CS student at **CUHK(SZ)** 
 - 🤖 Interested in **machine learning** — especially **reinforcement learning**
 - ⚽ Love playing soccer. Lifelong **Spurs** fan (COYS!)  
-- 🎸 Enjoy music — U2, Bon Jovi, Chen-yue Chang, Jonathan Lee...  
+- 🎸 Enjoy music — U2, Bon Jovi, Chen-yue Chang, Jonathan Lee, Wakin Chau...  
 - 💬 Always open to chat about soccer, AI, or creative coding ideas 
 
 ---
@@ -53,6 +53,15 @@ Here are some ideas to get you started:
 - ✉️ [yuanqingma@link.cuhk.edu.cn](mailto:yuanqingma@link.cuhk.edu.cn)  
 
 
+---
+
+### 📊 GitHub Stats
+
+![Tommy's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tommyma3&theme=tokyonight)
+
+![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommyma3&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyma3&layout=compact&theme=tokyonight&hide=html)
 
 ---
 
