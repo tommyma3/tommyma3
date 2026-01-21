@@ -57,9 +57,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-![Tommy's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tommyma3&theme=tokyonight)
-
-![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommyma3&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tommyma3&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyma3&layout=compact&theme=tokyonight&hide=html)
 
