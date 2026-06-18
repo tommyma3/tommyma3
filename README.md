@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🎓 Sophomore CS student at **CUHK(SZ)** 
 - 🤖 Interested in **machine learning** — especially **reinforcement learning**
 - ⚽ Love playing soccer. Lifelong **Spurs** fan (COYS!)  
-- 🎸 Enjoy music — U2, Bon Jovi, Chen-yue Chang, Jonathan Lee, Wakin Chau...  
+- 🎸 Enjoy music — U2, David Bowie, Bon Jovi, Chen-yue Chang, Jonathan Lee, Wakin Chau...  
 - 💬 Always open to chat about soccer, AI, or creative coding ideas 
 
 ---
